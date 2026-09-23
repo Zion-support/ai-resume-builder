@@ -1,2 +1,10 @@
-# ai-resume-builder
-AI Resume Builder — optimized CV and cover letter generation
+# AI Resume Builder
+
+Optimized CV and cover letter generation.
+
+🚀 **Live app:** https://ai-resume-builder.ziontechgroup.com
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+
+See [NETWORK.md](NETWORK.md) for interlinks to related apps.
