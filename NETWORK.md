@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Resume Builder
 
-**ai-resume-builder** is part of the Zion Tech Group app network (630+ apps).
+Optimized CV and cover letter generation.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-hr-talent-platform](https://github.com/Zion-support/ai-hr-talent-platform) · [zion-ai-recruiter](https://github.com/Zion-support/zion-ai-recruiter) · [ai-coach](https://github.com/Zion-support/ai-coach) · [zion-ai-interview-copilot](https://github.com/Zion-support/zion-ai-interview-copilot)
 
-## Related apps
-- [ai-hr-talent-platform](https://github.com/Zion-support/ai-hr-talent-platform) — Recruitment and workforce management
-- [zion-ai-recruiter](https://github.com/Zion-support/zion-ai-recruiter) — AI recruiting
-- [zion-ai-interview-copilot](https://github.com/Zion-support/zion-ai-interview-copilot) — Interview copilot
-- [ai-content-translator](https://github.com/Zion-support/ai-content-translator) — Multilingual content
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
