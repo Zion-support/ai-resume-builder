@@ -1,16 +1,18 @@
-# 🌐 Zion App Network — Interlinks
+# AI Resume Builder — Part of the Zion AI App Network
 
-**ai-resume-builder** is part of the Zion Tech Group app network (630+ apps).
+Live app: https://zion-support.github.io/ai-resume-builder/
 
-- 🏗️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
+## 🔗 Explore the network
+- 🏠 Homepage: https://ziontechgroup.com/
+- 🌐 App Network hub: https://ziontechgroup.com/zion-app-network/ · [GitHub hub](https://github.com/Zion-support/zion-app-network)
+- 🧰 All tools: https://ziontechgroup.com/tools/
+- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
+- 📞 Free discovery call: https://ziontechgroup.com/discovery/
 
 ## Related apps
-- [zion-ai-interview-copilot](https://github.com/Zion-support/zion-ai-interview-copilot) — structured technical interviewing
-- [zion-ai-onboarding-twin](https://github.com/Zion-support/zion-ai-onboarding-twin) — digital-twin new-hire training
-- [ai-policy-generator](https://github.com/Zion-support/ai-policy-generator) — AI usage policy builder
-- [meeting-cost-calculator](https://github.com/Zion-support/meeting-cost-calculator) — meeting cost analysis
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+- [AI HR Talent Platform](https://ziontechgroup.com/ai-hr-talent-platform/)
+- [Onboarding Buddy AI](https://ziontechgroup.com/onboarding-buddy-ai/)
+- [Zion AI Training Academy](https://ziontechgroup.com/zion-ai-training-academy/)
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+© 2026 Zion Tech Group · https://ziontechgroup.com/
