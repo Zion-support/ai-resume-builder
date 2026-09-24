@@ -6,6 +6,6 @@ Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and play
 - 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/ai-resume-builder/
-- 🔗 Related: [AI HR Talent Platform](https://ziontechgroup.com/ai-hr-talent-platform/) · [Proposal Builder AI](https://ziontechgroup.com/proposal-builder-ai/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🔗 Related: [AI HR Talent Platform](https://ziontechgroup.com/ai-hr-talent-platform/) · [AI Assessment Engine](https://ziontechgroup.com/ai-assessment-engine/) · [Discovery](https://ziontechgroup.com/discovery/)
 
 © 2026 Zion Tech Group.
